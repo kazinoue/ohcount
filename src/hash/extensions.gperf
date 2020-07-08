@@ -55,6 +55,7 @@ dat, DISAMBIGUATE("dat")
 def, DISAMBIGUATE("def")
 di, LANG_DMD
 doc, BINARY
+dpr, LANG_PASCAL
 dtx, LANG_TEX_DTX
 dylan, LANG_DYLAN
 e, LANG_EIFFEL
